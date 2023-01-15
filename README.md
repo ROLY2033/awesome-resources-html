@@ -16,15 +16,15 @@
 - https://stackoverflow.com/questions/tagged/html?tab=Active - ask related questions HTML.
 - https://htmlreference.io/ - good structure content
 - https://www.oreilly.com/library/view/html5-the-missing/9781449373412/ - good book for learning HTML
-##Tools
+## Tools
 - https://validator.w3.org/ - validator for html syntax.
 - https://html.com/blog/100-legal-sources-free-stock-images/ - 100 Of The Best Free (And Legal) Stock Image Sources In 2023.
 - https://validator.w3.org/#validate_by_upload - validator
 - https://www.hostinger.com/tutorials/best-html-editors - best editors html for 2023
 - https://www.tutorialbrain.com/html/html_home/ - guide for html 
 - https://www.w3.org/Tools/HTML-XML-utils/ - tools for html and xml
-##courses
-###basic
+## courses
+### basic
 - [Learn HTML – Full Tutorial for Beginners (2022)](https://www.youtube.com/watch?v=kUMe1FH4CHE)- basic syntax html
 - [Add to queue HTML Tutorial for Beginners: HTML Crash Course](https://www.youtube.com/watch?v=qz0aGYrrlhU)
 - https://www.w3.org/TR/xhtml1/ -xhtml documentation
@@ -35,10 +35,10 @@
 - https://www.codecademy.com/learn/learn-html - Start at the beginning by learning HTML basics
 - https://www.coursera.org/learn/html - course of coursera 
 - [project html](https://www.youtube.com/watch?v=T5PD8ofhiug) - course of html in playlist
-en español
+### en español
 - [play list del curso](https://www.youtube.com/watch?v=eesyGnJwfAY&list=PLROIqh_5RZeB92ME1GFyeqDVOa-gL0Ybd) - curso de html
-- [el mejor explicado en mi opinion](https://youtube.com/playlist?list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99) - edteam curso de html 2018
-###advanced
+- [buen explicado ](https://youtube.com/playlist?list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99) - edteam curso de html 2018
+### advanced
 - https://www.pluralsight.com/courses/html5-advanced - topics advanced html
 - https://www.edyoda.com/course/1481?episode_id=1958 - basic to advanced course
 - https://www.udemy.com/course/projects-in-html5/ - course full projects html
