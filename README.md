@@ -37,7 +37,7 @@
 - [project html](https://www.youtube.com/watch?v=T5PD8ofhiug) - course of html in playlist
 ### en español
 - [play list del curso](https://www.youtube.com/watch?v=eesyGnJwfAY&list=PLROIqh_5RZeB92ME1GFyeqDVOa-gL0Ybd) - curso de html
-- [buen explicado ](https://youtube.com/playlist?list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99) - edteam curso de html 2018
+- [bien explicado ](https://youtube.com/playlist?list=PLv6CkzbbGAlXld23oW5eTzoSrtHkV6i99) - edteam curso de html 2018
 ### advanced
 - https://www.pluralsight.com/courses/html5-advanced - topics advanced html
 - https://www.edyoda.com/course/1481?episode_id=1958 - basic to advanced course
