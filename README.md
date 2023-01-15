@@ -18,7 +18,7 @@
   <li>https://html.com/blog/ - blog interesting about HTML and others themes.</li>
   <li>https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/ - platform for learning technologies web development.</li>
   <li>https://stackoverflow.com/questions/tagged/html?tab=Active - ask related questions HTML.</li>
-  <li>##Tools
+   ##Tools
   <li>https://validator.w3.org/ - validator for html syntax.</li>
   <li>https://html.com/blog/100-legal-sources-free-stock-images/ - 100 Of The Best Free (And Legal) Stock Image Sources In 2023.</li>
   
