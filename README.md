@@ -16,6 +16,7 @@
 - https://stackoverflow.com/questions/tagged/html?tab=Active - ask related questions HTML.
 - https://htmlreference.io/ - good structure content
 - https://www.oreilly.com/library/view/html5-the-missing/9781449373412/ - good book for learning HTML
+- https://www.youtube.com/watch?v=XT2mHpugQ74 - tricks for html
 ## Tools
 - https://validator.w3.org/ - validator for html syntax.
 - https://html.com/blog/100-legal-sources-free-stock-images/ - 100 Of The Best Free (And Legal) Stock Image Sources In 2023.
