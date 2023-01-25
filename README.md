@@ -1,4 +1,4 @@
-# resources learning HTML
+# resources learning HTML (courses, documentations, best practices...)
 
 - https://html.spec.whatwg.org/multipage/ - HTML standard.
 - https://html.spec.whatwg.org/dev/ - HTML standard dev versions.
